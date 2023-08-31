@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 30 Aug 2023 18:27:23 .. please wait!
+httrack -%e1 https://www.fedgeo.us 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=4921
+UID=1000
+GID=1000
+START=1693434443

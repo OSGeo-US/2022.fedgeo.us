@@ -1,0 +1,496 @@
+HTTrack3.49-2 launched on Wed, 30 Aug 2023 18:27:23 at https://www.fedgeo.us
+(httrack -%e1 https://www.fedgeo.us )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:09	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:29:09	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:30:05	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:30:05	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:30:10	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:30:10	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:31:29	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:31:29	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:31:46	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:31:46	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:34:30	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+18:34:30	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+18:34:30	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FuWklY8W366w%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuWklY8W366w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuWklY8W366w%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/)
+18:37:23	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.projectgeospatial.com/fedgeoday/" (from https://www.fedgeo.us/)
+18:43:01	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+18:43:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+18:44:22	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+18:44:22	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+18:45:33	Warning: 	Unable to test https://twitter.com/crunchydata (loop to same filename)
+18:45:33	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/crunchydata
+18:46:12	Warning: 	Note: due to https://aws.amazon.com remote robots.txt rules, links beginning with these path will be forbidden: */confirmation/, */registration-confirmation/, /about-aws/launch-a-website-in-minutes-tutorial/, /about-aws/media-coverage/2011/08/17/rhat-support-for-sap-solutions-running-on-rhel-on-amazon-ec2/, /about-aws/whats-new/2007/11/07/red-hat-enterprise-linux-available-on-amazon-ec2/, /about-aws/whats-new/2008/06/17/jboss-on-amazon-ec2/, /about-aws/whats-new/2008/10/01/amazon-ec2-running-windows-server-coming-soon/, /about-aws/whats-new/2008/11/03/force.com-toolkit/, /about-aws/whats-new/2008/11/18/force.com-toolkit-2/, /about-aws/whats-new/2009/01/05/Amazon-CTO-Chief-of-Year/, /about-aws/whats-new/2009/01/09/Amazon-CTO-Chief-of-Year-2/, /about-aws/whats-new/2009/07/24/aws-survey/, /activate/accelerators, /activate/accelerators/*, /activate/accelerators/confirmation/, /activate/china-portfolio-signup/, /activate/cloudkata/, /activate/event/, /activate/event/*, /activate/events/*, /activate/events/hact/, /activate/hackathons, /activate/hackathons/*, /activate/harvard-innovation-lab-students-2013/, /activate/harvard-innovation-lab-vip-teams-2013/, /activate/hsw/confirmation/, /activate/loft/, /activate/self-starters/confirmation/, /activate/wdm/*, /alexa/*, /alexa-top-sites/*, /alexa-web-search/*, /apac/aws-credits-confirmation/, /apac/aws-credits-request-confirmation/, /articles/item/, /awis/*, /aws-summit-2014/enterprise-london-db/, /aws-summit-2014/london-db/, /blogs/7faebe5debfdd358a46f2452a54eec94fce49269/, /campaigns/infor-hub-xt5r5iwdrgxbnuz/, /careers/aus-nz-event/, /careers/aus-nz-event/, /careers/aws-ar-event/, /careers/aws-aus-event/, /careers/aws-australia-event/, /careers/aws-bigdata-hiring/, /careers/aws-brisbane-event/, /careers/aws-db-event/, /careers/aws-ks-event/, /careers/aws-london-event/, /careers/aws-mexicocity-event/, /careers/aws-miami-event/, /careers/aws-ny-event/, /careers/aws-pittsburgh-event/, /careers/aws-portland-event/, /careers/aws-sea-event/, /careers/aws-singapore-event/, /careers/aws-sydney-event/, /careers/chattanooga-mobile-event/, /careers/database-hiring/, /careers/devtools-australia-event/, /careers/devtools-australia-event/, /careers/ebs-cincinnati-event/, /careers/ec2-australia-event/, /careers/ec2-chicago-event/, /careers/ec2-hiring-events/, /careers/ec2-ottawa-event/, /careers/ec2-vancouver-event/, /careers/indianapolis-event/, /careers/mexico-edge-hiring-2014/, /careers/milwaukee-edge-hiring-2014/, /careers/montreal-edge-hiring/, /careers/Phoenix-Hiring-Event/, /careers/pittsburgh-platform-hiring-2014/, /careers/raleigh-mobile-event/, /careers/raleigh-storage-hiring-2014/, /careers/santiago-event/, /careers/Sydney-Hiring-Event/, /careers/texas-event/, /careers/toronto-event/, /careers/toronto-storage-hiring-2014/, /Cloud_Start_01.LandingPage.html, /Cloud_Start_01-Landing-Page-EDO.html, /Cloud_Start_02.ConfirmationPage.html, /code/*, /compliance/contact-us-confirmation/, /compliance/hipaa-eligible-services-reference/, /compliance/how-to-open-aws-compliance-reports/, /compliance/public-sector-contact-confirmation/, /compliance/security-assurance-faq, /compliance/security-assurance-faq-1, /compliance/security-assurance-faq-10, /compliance/security-assurance-faq-2, /compliance/security-assurance-faq-3, /compliance/security-assurance-faq-4, /compliance/security-assurance-faq-5, /compliance/security-assurance-faq-6, /compliance/security-assurance-faq-7, /compliance/security-assurance-faq-8, /compliance/security-assurance-faq-9, /compliance/security-assurance-faq-complete, /compliance/security-assurance-US-Public-Sector-checklist, /compliance/security-assurance-US-Public-Sector-checklist-1, /compliance/security-assurance-US-Public-Sector-checklist-10, /compliance/security-assurance-US-Public-Sector-checklist-2, /compliance/security-assurance-US-Public-Sector-checklist-3, /compliance/security-assurance-US-Public-Sector-checklist-4, /compliance/security-assurance-US-Public-Sector-checklist-5, /compliance/security-assurance-US-Public-Sector-checklist-6, /compliance/security-assurance-US-Public-Sector-checklist-7, /compliance/security-assurance-US-Public-Sector-checklist-8, /compliance/security-assurance-US-Public-Sector-checklist-9, /compliance/security-assurance-US-Public-Sector-checklist-complete, /compliance/third-party-access/, /contact-us/ami-submission-conf/, /contact-us/article-submission-conf/, /contact-us/case-contact-confirmation/, /contact-us/customer-app-submission-conf/, /contact-us/developertool-submission-conf/, /contact-us/ec2-email-limit-request-confirmation/, /contact-us/elasticache-node-limit-request-confirmation/, /contact-us/marketing-unsubscribe-confirmation/, /contact-us/publicdataset-conf/, /contact-us/sales-contact-confirmation/, /contact-us/samplecode-submission-conf/, /csds/*, /customerapps/*, /datasets/, /developertools/2555753788650372, /documentation/alexa-top-sites/, /documentation/awis/, /email-preferences, /email-preferences/, /en/, /events/applesummit, /events/cio-advisory-council/, /events/finserv-summit-dublin, /events/finserv-summit-dublin/confirmation, /events/finserv-summit-singapore, /events/finserv-summit-singapore/confirmation, /events/fsi-cloud-symposium-nyc.html, /federal/events/earthobservationday2015/, /federal/events/earthobservationday2015/ConfirmationPage/, /forms/activate-support, /free/cloud-computing-free-tier/, /free/databases-free-tier/, /get-cloud/, /getting-started/functional-groups/, /getting-started/functional-groups/*, /government-education/nonprofits/aws-serve/, /government-education/nonprofits/aws-serve-member/, /government-education/nonprofits/credit-program/, /government-education/nonprofits/credit-program/confirmation, /government-education/nonprofits/credit-program/terms, /government-education/nonprofits/grant-program/, /government-education/nonprofits/grant-program/confirmation/, /government-education/nonprofits/grant-program/terms/, /government-education/nonprofits/leadership-forum-poc, /government-education/nonprofits/leadership-forum-poc/confirmation, /government-education/public-sector-cloud-start/public-sector-cloud-start/, /government-education/public-sector-cloud-start/public-sector-cloud-start1/, /hackathons/reinvent-2013/, /legal/3874403/, /lms/contact-us/, /loft/, /marketplace/reviews/reviews-list/*/write-comment/, /marketplace/reviews/write-review/, /marketplace/search*, /microsoft/bizspark/, /microsoft/bizspark/signon/thankyou/, /nav/, /nav/side-nav/, /nav/side-nav/products-services/, /nav/tabs/, /nav/tabs/account/, /nav/tabs/aws/, /nav/tabs/community/, /nav/tabs/developers/, /nav/tabs/products/, /nav/tabs/support/, /optin/, /optout/, /partners/contact-us/partners-confirmation/, /partners/overview/partner-newsletter/confirmation/, /partners/overview/partner-terms-and-conditions/, /partners/webinars/request/, /ping, /pm/, /premiumsupport/iam/, /premiumsupport/knowledge-center/feedback-no/, /premiumsupport/knowledge-center/feedback-yes/, /pricing/awis/, /public-data-sets/applicants/, /public-data-sets/terms/, /publicdatasets-confirmation/, /quickstart/promo, /quickstart/promo/confirmation, /reinvent/video-case-studies, /releasenotes/item/, /research-credits/data-science-bowl, /ru/blogs/497c2c2d305b7dfa351d17bd3b4398dc37b0e0a4/, /s/*, /s/dm/house/editorial/startups/ha_ed_activate_loft_launch_sf_1/, /sap/saphana/pilot/, /sap/saphana/pilot/offer/, /sap/saphana/pilot/offer/confirmation, /search, /search/, /security/aws-pgp-public-key, /security/ec2-pkgs-public-key, /security/introducing-s2n-new-open-source-TLS-implementation, /s-moved/dm/house/editorial/startups/ha_ed_activate_loft_launch_sf_1/, /solutions/case-studies/imdb/, /solutions/featured-partners/, /solutions/global-solution-providers/microsoft/bizspark/, /solutions/global-solution-providers/microsoft/bizspark/faq/, /solutions/global-solution-providers/microsoft/bizspark/signon/, /solutions/global-solution-providers/microsoft/bizspark/signon/, /solutions/global-solution-providers/microsoft/bizspark/signon/, /solutions/global-solution-providers/microsoft/bizspark/signon/thankyou/, /solutions/global-solution-providers/microsoft/bizspark/signon/thankyou/, /solutions/solution-providers/program/reseller/adguidelines/, /solutions/solution-providers/program/reseller/adguidelines/ (see in the options to disable this)
+18:47:08	Warning: 	Unable to test https://twitter.com/RGICorp (loop to same filename)
+18:47:08	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/RGICorp
+18:48:13	Warning: 	Unable to test https://twitter.com/geosolutions_it (loop to same filename)
+18:48:13	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/geosolutions_it
+18:49:01	Warning: 	Unable to test https://twitter.com/geosolutions_it (loop to same filename)
+18:49:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/geosolutions_it
+18:51:16	Warning: 	Unable to test https://twitter.com/Hello_Motivf (loop to same filename)
+18:51:16	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Hello_Motivf
+18:51:44	Warning: 	Unable to test https://twitter.com/Hello_Motivf (loop to same filename)
+18:51:44	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Hello_Motivf
+18:52:47	Warning: 	Unable to test https://twitter.com/element84 (loop to same filename)
+18:52:47	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/element84
+18:55:26	Warning: 	Unable to test https://twitter.com/azavea (loop to same filename)
+18:55:26	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/azavea
+18:56:23	Warning: 	Unable to test https://twitter.com/kaartgroup (loop to same filename)
+18:56:23	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/kaartgroup
+18:56:36	Warning: 	Note: due to https://www.doi.gov remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/, /employees/drupal/ (see in the options to disable this)
+18:57:24	Warning: 	Unable to test https://twitter.com/interior (loop to same filename)
+18:57:24	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/interior
+18:58:28	Warning: 	Unable to test https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fbiden-harris-administration-holds-first-ever-gulf-mexico-offshore-wind-energy-auction%26text%3DBiden-Harris%2520Administration%2520Holds%2520First-Ever%2520Gulf%2520of%2520Mexico%2520Offshore%2520Wind%2520Energy%2520Auction (loop to same filename)
+18:58:28	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fbiden-harris-administration-holds-first-ever-gulf-mexico-offshore-wind-energy-auction%26text%3DBiden-Harris%2520Administration%2520Holds%2520First-Ever%2520Gulf%2520of%2520Mexico%2520Offshore%2520Wind%2520Energy%2520Auction
+18:58:39	Warning: 	Unable to test https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fassistant-secretary-estenoz-highlights-president-bidens-investing-america-agenda-0%26text%3DAssistant%2520Secretary%2520Estenoz%2520Highlights%2520President%2520Biden%25e2%2580%2599s%2520Investing%2520in%2520America%2520Agenda%2520in%2520Tennessee (loop to same filename)
+18:58:39	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fassistant-secretary-estenoz-highlights-president-bidens-investing-america-agenda-0%26text%3DAssistant%2520Secretary%2520Estenoz%2520Highlights%2520President%2520Biden%25e2%2580%2599s%2520Investing%2520in%2520America%2520Agenda%2520in%2520Tennessee
+18:58:50	Warning: 	Unable to test https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fdeputy-secretary-beaudreau-white-house-infrastructure-coordinator-landrieu-highlight%26text%3DDeputy%2520Secretary%2520Beaudreau%2C%2520White%2520House%2520Infrastructure%2520Coordinator%2520Landrieu%2520Highlight%2520President%25e2%2580%2599s%2520Investing%2520in%2520America%2520Agenda%2520in%2520Alaska (loop to same filename)
+18:58:50	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fdeputy-secretary-beaudreau-white-house-infrastructure-coordinator-landrieu-highlight%26text%3DDeputy%2520Secretary%2520Beaudreau%2C%2520White%2520House%2520Infrastructure%2520Coordinator%2520Landrieu%2520Highlight%2520President%25e2%2580%2599s%2520Investing%2520in%2520America%2520Agenda%2520in%2520Alaska
+18:59:01	Warning: 	Unable to test https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fbiden-harris-administration-approves-fourth-major-offshore-wind-project%26text%3DBiden-Harris%2520Administration%2520Approves%2520Fourth%2520Major%2520Offshore%2520Wind%2520Project (loop to same filename)
+18:59:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Fvia%3Dinterior%26url%3Dhttps%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fbiden-harris-administration-approves-fourth-major-offshore-wind-project%26text%3DBiden-Harris%2520Administration%2520Approves%2520Fourth%2520Major%2520Offshore%2520Wind%2520Project
+18:59:11	Warning: 	Unable to test https://twitter.com/interior (loop to same filename)
+18:59:11	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/interior
+19:03:41	Warning: 	Unable to test https://twitter.com/redcross (loop to same filename)
+19:03:41	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/redcross
+19:04:21	Warning: 	Moved Permanently for https://openstreetmap.us/robots.txt
+19:04:21	Warning: 	Redirected link is identical because of 'URL Hack' option: https://openstreetmap.us/robots.txt and https://www.openstreetmap.us/robots.txt
+19:04:21	Warning: 	Warning moved treated for https://openstreetmap.us/robots.txt (real one is https://www.openstreetmap.us/robots.txt)
+19:04:21	Warning: 	Moved Permanently for https://openstreetmap.us/
+19:04:21	Warning: 	Redirected link is identical because of 'URL Hack' option: https://openstreetmap.us/ and https://www.openstreetmap.us/
+19:04:21	Warning: 	File has moved from https://openstreetmap.us/ to https://www.openstreetmap.us/
+19:04:34	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+19:04:34	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+19:04:34	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+19:04:34	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+19:04:39	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+19:04:39	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+19:05:11	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+19:05:11	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+19:05:11	Warning: 	Unable to test https://twitter.com/fedgeoday_us (loop to same filename)
+19:05:11	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/fedgeoday_us
+19:05:30	Warning: 	Moved Permanently for https://www.linkedin.com/in/david-carter-902a321/
+19:05:30	Warning: 	File has moved from https://www.linkedin.com/in/david-carter-902a321/ to https://www.linkedin.com/in/david-carter-902a321
+19:05:31	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"https://www.youtube.com/embed/LE3Z8Tb_R4I?start=2808\%22 (from https://www.fedgeo.us/program)
+19:05:31	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.youtube.com/embed/LE3Z8Tb_R4I?start=2808&wmode=opaque%22 (from https://www.fedgeo.us/program)
+19:05:31	Warning: 	Moved Permanently for https://www.linkedin.com/in/aaron-kelley-1198887/
+19:05:31	Warning: 	File has moved from https://www.linkedin.com/in/aaron-kelley-1198887/ to https://www.linkedin.com/in/aaron-kelley-1198887
+19:05:32	Warning: 	Moved Permanently for https://www.linkedin.com/in/derald-dudley-8b055a2/
+19:05:32	Warning: 	File has moved from https://www.linkedin.com/in/derald-dudley-8b055a2/ to https://www.linkedin.com/in/derald-dudley
+19:05:32	Warning: 	Moved Permanently for https://www.linkedin.com/in/douglas-beridon-076755147/
+19:05:32	Warning: 	File has moved from https://www.linkedin.com/in/douglas-beridon-076755147/ to https://www.linkedin.com/in/douglas-beridon-076755147
+19:05:32	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/adriana-lard-62701883/ (from https://www.fedgeo.us/program)
+19:05:32	Warning: 	Moved Permanently for https://www.linkedin.com/in/maggiecawley/
+19:05:32	Warning: 	File has moved from https://www.linkedin.com/in/maggiecawley/ to https://www.linkedin.com/in/maggiecawley
+19:05:33	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0N0fLDlOCyg%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0N0fLDlOCyg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0N0fLDlOCyg%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:33	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJDZktuzpko0%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJDZktuzpko0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJDZktuzpko0%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:35	Warning: 	Moved Permanently for https://www.linkedin.com/in/ishiland/
+19:05:35	Warning: 	File has moved from https://www.linkedin.com/in/ishiland/ to https://www.linkedin.com/in/ishiland
+19:05:35	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F85jXXukKt0w%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D85jXXukKt0w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F85jXXukKt0w%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:35	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/eric-willis-ph-d-3a79a098/ (from https://www.fedgeo.us/program)
+19:05:35	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fm2wg94TC8FI%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm2wg94TC8FI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm2wg94TC8FI%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:37	Warning: 	Temporary Redirect for https://docs.crunchybridge.com/container-apps/getting-started/
+19:05:37	Warning: 	File has moved from https://docs.crunchybridge.com/container-apps/getting-started/ to https://docs.crunchybridge.com/container-apps
+19:05:37	Warning: 	Moved Permanently for https://www.linkedin.com/in/jacobcoblentz/
+19:05:37	Warning: 	File has moved from https://www.linkedin.com/in/jacobcoblentz/ to https://www.linkedin.com/in/jacobcoblentz
+19:05:37	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJhJQp6iwJlw%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJhJQp6iwJlw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJhJQp6iwJlw%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:38	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/carter-christopher/ (from https://www.fedgeo.us/program)
+19:05:38	Warning: 	Moved Permanently for https://www.linkedin.com/in/caitlinhowarth/
+19:05:38	Warning: 	File has moved from https://www.linkedin.com/in/caitlinhowarth/ to https://www.linkedin.com/in/caitlinhowarth
+19:05:38	Warning: 	Moved Permanently for https://www.linkedin.com/in/geogdan/
+19:05:38	Warning: 	File has moved from https://www.linkedin.com/in/geogdan/ to https://www.linkedin.com/in/geogdan
+19:05:38	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/lisacolson/ (from https://www.fedgeo.us/program)
+19:05:38	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIkpyD0eOz78%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIkpyD0eOz78&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIkpyD0eOz78%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:39	Warning: 	Moved Permanently for https://www.linkedin.com/in/allison-shafer-3b3a9655/
+19:05:39	Warning: 	File has moved from https://www.linkedin.com/in/allison-shafer-3b3a9655/ to https://www.linkedin.com/in/allison-shafer-3b3a9655
+19:05:39	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAU4nbvgtw5w%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAU4nbvgtw5w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAU4nbvgtw5w%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:40	Warning: 	Moved Permanently for https://www.publicdomainmap.org/robots.txt
+19:05:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.publicdomainmap.org/robots.txt and https://publicdomainmap.org/robots.txt
+19:05:40	Warning: 	Warning moved treated for https://www.publicdomainmap.org/robots.txt (real one is https://publicdomainmap.org/robots.txt)
+19:05:40	Warning: 	Moved Permanently for https://www.publicdomainmap.org/
+19:05:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.publicdomainmap.org/ and https://publicdomainmap.org/
+19:05:40	Warning: 	File has moved from https://www.publicdomainmap.org/ to https://publicdomainmap.org/
+19:05:41	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNcfgqH57swk%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNcfgqH57swk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNcfgqH57swk%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:41	Warning: 	Moved Permanently for https://www.linkedin.com/in/burleyryan/
+19:05:41	Warning: 	File has moved from https://www.linkedin.com/in/burleyryan/ to https://www.linkedin.com/in/burleyryan
+19:05:42	Warning: 	Moved Permanently for https://www.linkedin.com/in/robert-crutchfield-1b716343/
+19:05:42	Warning: 	File has moved from https://www.linkedin.com/in/robert-crutchfield-1b716343/ to https://www.linkedin.com/in/robert-crutchfield-1b716343
+19:05:42	Warning: 	Moved Permanently for https://www.linkedin.com/in/andrew-kerr/
+19:05:42	Warning: 	File has moved from https://www.linkedin.com/in/andrew-kerr/ to https://www.linkedin.com/in/andrew-kerr
+19:05:42	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fbb0Z5fl5OUY%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dbb0Z5fl5OUY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fbb0Z5fl5OUY%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:43	Error: 	"Forbidden" (403) at link https://www.ogc.org/ogc/organization/staff/josh-lieberman (from https://www.fedgeo.us/program)
+19:05:43	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmrfGJYaZ17Y%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmrfGJYaZ17Y&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmrfGJYaZ17Y%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:43	Warning: 	Moved Permanently for https://www.linkedin.com/in/leah-onuoha/
+19:05:43	Warning: 	File has moved from https://www.linkedin.com/in/leah-onuoha/ to https://www.linkedin.com/in/leah-onuoha
+19:05:43	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3oh57N8J-Ic%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3oh57N8J-Ic&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3oh57N8J-Ic%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:43	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/toddbacastow/ (from https://www.fedgeo.us/program)
+19:05:43	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FslXOWAgl2MQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DslXOWAgl2MQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FslXOWAgl2MQ%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:43	Warning: 	Moved Permanently for https://www.linkedin.com/in/sophiabliu/
+19:05:43	Warning: 	File has moved from https://www.linkedin.com/in/sophiabliu/ to https://www.linkedin.com/in/sophiabliu
+19:05:44	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/amanda-bright-a3a718109/ (from https://www.fedgeo.us/program)
+19:05:44	Warning: 	Moved Permanently for https://www.linkedin.com/in/chris-rasmussen-0853326/
+19:05:44	Warning: 	File has moved from https://www.linkedin.com/in/chris-rasmussen-0853326/ to https://www.linkedin.com/in/chris-rasmussen-0853326
+19:05:44	Warning: 	Moved Permanently for https://www.linkedin.com/in/justin-rice-56780223/
+19:05:44	Warning: 	File has moved from https://www.linkedin.com/in/justin-rice-56780223/ to https://www.linkedin.com/in/justin-rice-56780223
+19:05:44	Warning: 	Moved Permanently for https://www.linkedin.com/in/nathan-frantz-47970038/
+19:05:44	Warning: 	File has moved from https://www.linkedin.com/in/nathan-frantz-47970038/ to https://www.linkedin.com/in/nathan-frantz-47970038
+19:05:44	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/rorypnealon/ (from https://www.fedgeo.us/program)
+19:05:44	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0gnJWtTZNbY%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0gnJWtTZNbY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0gnJWtTZNbY%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:44	Warning: 	Moved Permanently for https://www.linkedin.com/in/robert-pitts-4b61775/
+19:05:44	Warning: 	File has moved from https://www.linkedin.com/in/robert-pitts-4b61775/ to https://www.linkedin.com/in/robert-pitts-4b61775
+19:05:44	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fo6ZKkaT1mF8%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do6ZKkaT1mF8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo6ZKkaT1mF8%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:44	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/hlexieyang/ (from https://www.fedgeo.us/program)
+19:05:44	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FlQoVPMVq-O8%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlQoVPMVq-O8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlQoVPMVq-O8%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/program)
+19:05:44	Warning: 	Moved Permanently for https://www.linkedin.com/in/eddie-pickle-b67545/
+19:05:44	Warning: 	File has moved from https://www.linkedin.com/in/eddie-pickle-b67545/ to https://www.linkedin.com/in/eddie-pickle-b67545
+19:05:45	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"https://www.youtube.com/embed/LE3Z8Tb_R4I?start=17382\%22 (from https://www.fedgeo.us/program)
+19:05:45	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.youtube.com/embed/LE3Z8Tb_R4I?start=17382&wmode=opaque%22 (from https://www.fedgeo.us/program)
+19:06:02	Warning: 	Unable to test https://twitter.com/OpenStreetMapUS (loop to same filename)
+19:06:02	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/OpenStreetMapUS
+19:06:03	Warning: 	Unable to test https://twitter.com/search?q=%23MappingUSA (loop to same filename)
+19:06:03	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/search?q=%23MappingUSA
+19:06:17	Warning: 	TEMPORARY REDIRECT for https://fedgeoday2022.eventbrite.com/
+19:06:17	Warning: 	File has moved from https://fedgeoday2022.eventbrite.com/ to https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937?aff=oddtdtcreator
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.ogc.org/disastersresilience/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://ogcapi.ogc.org/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://pygeoapi.io/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"http://readiness.disasters.ogc.org/index.php/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.ogc.org/projects/initiatives/healthsdi/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://geohealth.hhs.gov/arcgis/home/index.html/" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.linkedin.com/in/joshua-lieberman-ab81262//" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.linkedin.com/in/sophiabliu//" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.linkedin.com/in/elena-rein-85b454a5//" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://geonode.org/"><strong>GeoNode<//strong><//a> (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.linkedin.com/in/giovanniallegri//" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://geoserver.org/"><strong>GeoServer<//strong><//a> (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.linkedin.com/in/andreaaime//" (from https://www.fedgeo.us/workshops)
+19:06:18	Error: 	"Forbidden" (403) at link https://www.ogc.org/disastersresilience (from https://www.fedgeo.us/workshops)
+19:06:21	Error: 	"Forbidden" (403) at link https://www.ogc.org/projects/initiatives/healthsdi (from https://www.fedgeo.us/workshops)
+19:06:22	Warning: 	Redirect for https://geohealth.hhs.gov/robots.txt
+19:06:22	Warning: 	File has moved from https://geohealth.hhs.gov/robots.txt to https:\\geohealth.hhs.gov\arcgis\home/robots.txt
+19:06:22	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/joshua-lieberman-ab81262/ (from https://www.fedgeo.us/workshops)
+19:06:22	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/elena-rein-85b454a5/ (from https://www.fedgeo.us/workshops)
+19:06:23	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/giovanniallegri/ (from https://www.fedgeo.us/workshops)
+19:06:24	Warning: 	Moved Permanently for https://www.linkedin.com/in/andreaaime/
+19:06:24	Warning: 	File has moved from https://www.linkedin.com/in/andreaaime/ to https://it.linkedin.com/in/andreaaime
+19:06:24	Error: 	"NOT FOUND" (404) at link https://www.eventbrite.com/e/android-app://com.eventbrite.attendee/http/www.eventbrite.com/e/376807018937 (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:26	Error: 	"NOT FOUND" (404) at link https://www.eventbrite.com/e/android-app://com.eventbrite.attendee/com-eventbrite-attendee/event/376807018937/?referrer=eandurlxgoog& (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:28	Error: 	"No Content" (204) at link https://l.evidon.com/ (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:30	Error: 	"Not Found" (404) at link https://cdn.branch.io/ (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:31	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/ (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:31	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:06:43	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:06:43	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:07:25	Warning: 	FOUND for https://www.eventbrite.com/d/local/events/
+19:07:25	Warning: 	File has moved from https://www.eventbrite.com/d/local/events/ to https://www.eventbrite.com/d/ma--quincy/events/
+19:07:37	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 3186): https://eventbrite-s3.s3.amazonaws.com/marketing/landingpages/assets/2023/organizer/icons/svg/organizer-icon__orange--sell-tickets.svg
+19:08:17	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:08:17	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:08:17	Warning: 	Moved Permanently for https://www.eventbrite.com/help/
+19:08:17	Warning: 	File has moved from https://www.eventbrite.com/help/ to https://www.eventbrite.com/help/en-us/
+19:08:39	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:08:39	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:08:52	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:08:52	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:09:10	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:09:10	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:09:31	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:09:31	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:10:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 8057): https://eventbrite-s3.s3.amazonaws.com/marketing/landingpages/assets/feature_83m_eventbrite.png
+19:10:42	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:10:42	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:12:33	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:12:33	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:12:58	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:12:58	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:13:06	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:13:06	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:13:43	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:13:43	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:13:53	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:13:53	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:14:01	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:14:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:14:17	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:14:17	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:14:30	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:14:30	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:14:48	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:14:48	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:15:00	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:15:00	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:15:10	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:15:10	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:15:16	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:15:16	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:15:27	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:15:27	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:15:34	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:15:34	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:16:23	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:16:23	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:16:48	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:16:48	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:17:03	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:17:03	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:17:17	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:17:17	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:17:48	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:17:48	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:17:49	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:17:49	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:18:04	Warning: 	Unable to test https://twitter.com/FedScoop (loop to same filename)
+19:18:04	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/FedScoop
+19:18:16	Warning: 	Unable to test https://twitter.com/atarc (loop to same filename)
+19:18:16	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/atarc
+19:18:28	Warning: 	Unable to test https://twitter.com/JuanaMcAdoo (loop to same filename)
+19:18:28	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/JuanaMcAdoo
+19:18:39	Warning: 	Unable to test https://twitter.com/ScoopNewsGroup (loop to same filename)
+19:18:39	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/ScoopNewsGroup
+19:20:58	Warning: 	Unable to test https://twitter.com/certfirst (loop to same filename)
+19:20:58	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/certfirst
+19:21:11	Warning: 	Unable to test https://twitter.com/certfirst (loop to same filename)
+19:21:11	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/certfirst
+19:21:16	Warning: 	Unable to test https://twitter.com/certfirst (loop to same filename)
+19:21:16	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/certfirst
+19:21:19	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:21:19	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:21:53	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:21:53	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:22:11	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:22:11	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:22:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 12821): https://eventbrite-s3.s3.amazonaws.com/marketing/landingpages/assets/expedite_check_in-eventbrite.png
+19:22:37	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:22:37	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:22:39	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:22:39	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:23:03	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:23:03	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:23:26	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:23:26	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:23:46	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:23:46	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:23:59	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:23:59	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:24:13	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:24:13	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:24:17	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:24:17	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:24:36	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:24:36	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:24:54	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:24:54	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:25:08	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:25:08	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:25:19	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:25:19	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:26:37	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:26:37	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:26:46	Warning: 	MOVED PERMANENTLY for https://www.eventbrite.com/eventbriteapp/
+19:26:46	Warning: 	File has moved from https://www.eventbrite.com/eventbriteapp/ to https://www.eventbrite.com/l/eventbrite-app/
+19:26:46	Warning: 	FOUND for https://www.eventbrite.com/tos/
+19:26:46	Warning: 	File has moved from https://www.eventbrite.com/tos/ to https://www.eventbrite.com/support/articleredirect?anum=8477
+19:26:47	Warning: 	FOUND for https://www.eventbrite.com/privacypolicy/
+19:26:47	Warning: 	File has moved from https://www.eventbrite.com/privacypolicy/ to https://www.eventbrite.com/support/articleredirect?anum=8478
+19:27:01	Warning: 	Unable to test https://twitter.com/eventbrite (loop to same filename)
+19:27:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/eventbrite
+19:27:08	Warning: 	Unable to test https://twitter.com/Eventbrite (loop to same filename)
+19:27:08	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/Eventbrite
+19:28:09	Warning: 	FOUND for https://www.eventbrite.com/brite-community/
+19:28:09	Warning: 	File has moved from https://www.eventbrite.com/brite-community/ to https://www.eventbrite.com/support/articleredirect?anum=26182
+19:28:11	Warning: 	Note: due to https://sentry.io remote robots.txt rules, links beginning with these path will be forbidden: /api/ (see in the options to disable this)
+19:28:11	Warning: 	Found for https://sentry.io/organizations/eventbrite-eng/issues/?environment=[app.environment]&query=is%3Aunresolved+lastSeen%3A-1h
+19:28:11	Warning: 	File has moved from https://sentry.io/organizations/eventbrite-eng/issues/?environment=[app.environment]&query=is%3Aunresolved+lastSeen%3A-1h to /auth/login/eventbrite-eng/
+19:28:11	Error: 	"NOT FOUND" (404) at link https://www.eventbrite.com/e/require_base_config.js (from https://www.eventbrite.com/e/fedgeoday-2022-tickets-376807018937)
+19:28:11	Error: 	"Bad Request" (400) at link https://www.fedgeo.us/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FpZB0oEQfG7w%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpZB0oEQfG7w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpZB0oEQfG7w%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.upslopeadvisors.com/"><strong>Upslope (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.crunchydata.com/"><strong>Crunchy (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.ornl.gov/"><strong>Oak (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.kaart.com/"><strong>Kaart<//strong><//a><strong><br><//strong>Director (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://rgi-corp.com/"><strong>Reinventing (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.redcross.org/"><strong>American (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://doi.gov/"><strong>Department (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://resurety.com/"><strong>REsurety, (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.motivf.com/"><strong>Motivf<//strong><//a><strong><br><//strong>Chief (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.openstreetmap.us/"><strong>OpenStreetMap (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.element84.com/"><strong>Element (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.azavea.com/"><strong>Azavea<br><//strong><//a>President (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.geosolutionsgroup.com/"><strong>GeoSolutions<//strong><//a><br>Director (from https://www.fedgeo.us/about)
+19:28:11	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://www.usgs.gov/"><strong>U.S. (from https://www.fedgeo.us/about)
+19:30:20	Warning: 	Unable to test https://twitter.com/UpSlopeAdvisors (loop to same filename)
+19:30:20	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/UpSlopeAdvisors
+19:30:25	Warning: 	Unexpected socket error during pre-loop
+19:30:40	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/adamtimm/ (from https://www.fedgeo.us/about)
+19:30:41	Warning: 	Note: due to https://www.ornl.gov remote robots.txt rules, links beginning with these path will be forbidden: /core/, /profiles/, /README.txt, /web.config, /admin/, /comment/reply/, /filter/tips, /node/add/, /search/, /user/register, /user/password, /user/login, /user/logout, /media/oembed, /*/media/oembed, /index.php/admin/, /index.php/comment/reply/, /index.php/filter/tips, /index.php/node/add/, /index.php/search/, /index.php/user/password, /index.php/user/register, /index.php/user/login, /index.php/user/logout, /index.php/media/oembed, /index.php/*/media/oembed (see in the options to disable this)
+19:32:25	Warning: 	Unable to test https://twitter.com/ORNL (loop to same filename)
+19:32:25	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/ORNL
+19:33:58	Warning: 	Moved Permanently for https://www.linkedin.com/in/chad-blevins-5590b352/
+19:33:58	Warning: 	File has moved from https://www.linkedin.com/in/chad-blevins-5590b352/ to https://www.linkedin.com/in/chad-blevins-5590b352
+19:33:58	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/chitra-sivanandam-073698/ (from https://www.fedgeo.us/about)
+19:33:58	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/danbjoseph/ (from https://www.fedgeo.us/about)
+19:33:59	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/guidostein/ (from https://www.fedgeo.us/about)
+19:33:59	Warning: 	Moved Permanently for https://www.linkedin.com/in/jaymescloninger/
+19:33:59	Warning: 	File has moved from https://www.linkedin.com/in/jaymescloninger/ to https://www.linkedin.com/in/jaymescloninger
+19:34:00	Warning: 	Moved Permanently for https://www.linkedin.com/in/jess-beutler/
+19:34:00	Warning: 	File has moved from https://www.linkedin.com/in/jess-beutler/ to https://www.linkedin.com/in/jess-beutler
+19:34:00	Warning: 	Moved Permanently for https://www.linkedin.com/in/geoskeptic/
+19:34:00	Warning: 	File has moved from https://www.linkedin.com/in/geoskeptic/ to https://www.linkedin.com/in/geoskeptic
+19:34:00	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/nellie-blair-7621a7156/ (from https://www.fedgeo.us/about)
+19:34:00	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/in/rcheetham/ (from https://www.fedgeo.us/about)
+19:35:33	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:35:33	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:35:36	Warning: 	Moved Permanently for https://www.linkedin.com/in/thomas-dabolt-3578486/
+19:35:36	Warning: 	File has moved from https://www.linkedin.com/in/thomas-dabolt-3578486/ to https://www.linkedin.com/in/thomas-dabolt-3578486
+19:35:36	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/8599516/" (from https://www.fedgeo.us/about)
+19:35:36	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/8599516/embed/" (from https://www.fedgeo.us/about)
+19:35:36	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/8599516/embed" (from https://www.fedgeo.us/about)
+19:35:37	Warning: 	Link https://vimeo.com/showcase/8599516 not scanned (follow robots meta tag)
+19:35:37	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/7302594/" (from https://www.fedgeo.us/about)
+19:35:37	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/7302594/embed/" (from https://www.fedgeo.us/about)
+19:35:37	Error: 	"Not Found" (404) at link https://www.fedgeo.us/"https://vimeo.com/showcase/7302594/embed" (from https://www.fedgeo.us/about)
+19:35:37	Warning: 	Link https://vimeo.com/showcase/7302594 not scanned (follow robots meta tag)
+19:35:38	Error: 	"Bad Request" (400) at link https://gtm.menti.com/gtm.js?id= (from https://www.menti.com/alxyj8t4mk2e)
+19:35:39	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-Regular.eot (from https://www.menti.com/alxyj8t4mk2e)
+19:35:39	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-SemiBold.eot (from https://www.menti.com/alxyj8t4mk2e)
+19:35:39	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-Regular.eot (from https://www.menti.com/alxyj8t4mk2e)
+19:35:39	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-SemiBold.eot (from https://www.menti.com/alxyj8t4mk2e)
+19:36:54	Warning: 	Unable to test https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Ftext%3DHow%2520to%2520enable%2520JavaScript%2520in%2520your%2520browser%2520and%2520why%26url%3Dhttps%3A%2F%2Fwww.enable-javascript.com%26hashtags%3DJavaScript (loop to same filename)
+19:36:54	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ftweet%3Ftext%3DHow%2520to%2520enable%2520JavaScript%2520in%2520your%2520browser%2520and%2520why%26url%3Dhttps%3A%2F%2Fwww.enable-javascript.com%26hashtags%3DJavaScript
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-Light.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-LightItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-RegularItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-SemiBoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-Bold.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-BoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-ExtraBold.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-text/1.4/MentiText-ExtraBoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-Light.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-LightItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-RegularItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-SemiBoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-Bold.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-BoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-ExtraBold.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Forbidden" (403) at link https://static.mentimeter.com/static/fonts/web/menti-display/1.4/MentiDisplay-ExtraBoldItalic.eot (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:37:01	Error: 	"Bad Request" (400) at link https://gtm.mentimeter.com/gtm.js?id= (from https://www.mentimeter.com/app/presentation/al7qfjhbp6msn2f9nta7fqgh99dh96sp)
+19:40:51	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:40:51	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:42:21	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:42:21	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:44:33	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:44:33	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:45:33	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:45:33	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:50:23	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:50:23	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:54:23	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:54:23	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+19:59:20	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+19:59:20	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:05:31	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:05:31	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:05:47	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:05:47	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:08:59	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:08:59	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:13:40	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:13:40	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:15:28	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:15:28	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:16:53	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:16:53	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:21:18	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:21:18	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:26:12	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:26:12	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:31:54	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:31:54	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:32:01	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:32:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:33:00	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:33:00	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:34:09	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:34:09	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:35:16	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:35:16	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:36:29	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:36:29	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:37:44	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:37:44	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:38:26	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:38:26	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:38:36	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:38:36	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:39:35	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:39:35	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:40:32	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:40:32	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:41:24	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:41:24	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:42:41	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:42:41	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:43:57	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:43:57	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:45:25	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:45:25	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:46:14	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:46:14	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:47:09	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:47:09	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:47:32	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:47:32	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:49:17	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:49:17	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:50:18	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:50:18	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:51:25	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:51:25	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:52:22	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:52:22	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:52:35	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:52:35	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:53:06	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:53:06	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:53:44	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:53:44	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:54:03	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:54:03	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:57:31	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:57:31	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+20:59:50	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+20:59:50	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:03:02	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:03:02	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:03:42	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:03:42	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:05:32	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:05:32	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:05:56	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:05:56	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:06:14	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:06:14	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:07:06	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:07:06	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:08:02	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:08:02	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:09:01	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:09:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:10:01	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:10:01	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:10:54	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:10:54	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:11:38	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:11:38	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:12:41	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:12:41	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:13:44	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:13:44	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:13:59	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:13:59	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
+21:14:34	Warning: 	Unable to test https://twitter.com/USGS (loop to same filename)
+21:14:34	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/USGS
